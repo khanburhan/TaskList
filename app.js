@@ -135,7 +135,7 @@ function clearTasks() {
 }
 
 // Clear tasks from Local Storage
-function clearTaskFromLocalStorage() {
+function clearTasksFromLocalStorage() {
   localStorage.clear();
 }
 
